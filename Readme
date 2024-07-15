@@ -1,0 +1,19 @@
+We will be working on the Summer Heat Waves Mobile Alert System. 
+With climate change exacerbating heat-related risks, this system aims to provide timely alerts to the public,
+helping them stay safe during extreme heat events. I have done data analysis, developing predictive 
+models, and integrating the system with mobile platforms for widespread dissemination of alerts.
+
+# IN Detail
+
+The Summer Heat Waves Mobile Alert System is designed to keep people safe during extreme heat events by
+providing timely alerts on their mobile devices. As climate change increases the frequency and intensity
+of heat waves, this system uses data analysis and predictive models to forecast heat-related risks.
+By integrating these predictions with mobile platforms, the system can send out alerts to a wide audience,
+helping people take necessary precautions to protect their health and well-being during periods of extreme
+heat.
+Algorithm used are Random Forest Classifier.
+
+
+
+
+
